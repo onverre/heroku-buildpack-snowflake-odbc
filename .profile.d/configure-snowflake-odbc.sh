@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export ODBCSYSINI=${HOME}/.apt/usr/lib/snowflake/odbc/conf/
+export ODBCSYSINI=${HOME}/.apt/usr/lib/snowflake/odbc/conf
 
 mkdir -p /etc
 echo "[snowflake]
